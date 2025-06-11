@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "sf.com.maps",
+    "package_name": "sf.com.maps.app",
+    "sha256_cert_fingerprints":
+    ["1B:2B:C4:2A:3D:4E:FE:AC:93:04:B9:08:6F:59:C4:C8:73:64:74:F8:1B:0C:92:A6:D6:0F:DC:CB:9A:7E:5E:09"]
+  }
+}]
