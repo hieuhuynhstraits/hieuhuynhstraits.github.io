@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "A985Q97T72.sf.com.maps.app"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "A985Q97T72.sf.com.maps.app"
+    ]
+  }
+}
